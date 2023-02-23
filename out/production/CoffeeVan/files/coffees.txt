@@ -1,0 +1,3 @@
+04051a34-e735-4b9e-95f4-ed674d8438c5 CoffeeOrdinary cereal 30.0 300.0 375.34 65 ordinary Brazil Brazil Brazil none 0
+32471a4a-f1ab-42f5-8fd5-c72ab39543f2 HigherCoffee cereal 300.0 30000.0 50000.0 76 higher Brazil Brazil Brazil GonTrans 78
+3b15d365-baec-4a3c-b2ef-267b8356783e Coffee cereal 30.0 300.0 678.99 86 specialty Brazil Brazil Brazil GoldTrans 83

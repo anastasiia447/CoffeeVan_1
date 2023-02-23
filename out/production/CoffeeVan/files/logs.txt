@@ -1,0 +1,6 @@
+лют. 23, 2023 4:51:51 ПП model.db.AppDataBase <init>
+INFO: Connecting to server...
+лют. 23, 2023 4:51:52 ПП model.db.AppDataBase <init>
+INFO: Connected! Starting create database!
+лют. 23, 2023 4:51:52 ПП main.Manager <init>
+INFO: Initialized manager!
